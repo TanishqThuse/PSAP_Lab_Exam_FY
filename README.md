@@ -94,6 +94,4 @@ We welcome contributions from the community. If you have any improvements or add
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
----
 
-Feel free to customize this template to better fit the specifics of your repository and the programs it contains.
