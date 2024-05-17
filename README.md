@@ -1,4 +1,3 @@
-Certainly! Here's a sample README text for your Git repository containing the PSAP (Problem Solving and Programming) End Semester program files for the First Year (FY) students:
 
 ---
 
