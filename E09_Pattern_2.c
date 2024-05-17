@@ -1,4 +1,14 @@
 /*E09
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+E D C B A 
+E D C B 
+E D C 
+E D 
+E 
 */
 
 #include<stdio.h>
