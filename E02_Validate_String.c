@@ -1,4 +1,5 @@
-/*Given a string s containing just the characters like:
+/*E02
+Given a string s containing just the characters like:
 '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 An input string is valid if number of opening and closing brackets is same
 (irrespective of the sequence of opening and closing brackets)

@@ -52,7 +52,7 @@ int main() {
 //     printf("Enter the string: \n");
 //     fgets(s,sizeof(s),stdin);
 //     printf("S");
-//     for(int i=0; s[i]='\n';i++){
+//     for(int i=0; s[i]='\n';i++){ //EDIT -> so this s[i] = '\n' was the entire culprit !! tf!
 //         if(s[i]=='\n'){
 //             s[i]=='\0';
 //         }

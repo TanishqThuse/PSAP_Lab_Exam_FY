@@ -1,4 +1,4 @@
-/*E04 
+/*E03
 Given a string s, perform following operations on a string using function
 (Without pointer):
 1. Find a length of a string.

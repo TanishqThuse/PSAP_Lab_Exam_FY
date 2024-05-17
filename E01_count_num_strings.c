@@ -1,4 +1,5 @@
-/*Given a string, S , consisting of alphabets and digits, find the number of
+/*E01
+Given a string, S , consisting of alphabets and digits, find the number of
 alphabets and digits in the given string.
 Test Case 1:
 Sample Input: a11472o5t6
