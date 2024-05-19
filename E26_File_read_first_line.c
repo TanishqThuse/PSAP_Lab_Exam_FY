@@ -29,6 +29,7 @@ int main(){
 
     char line[100];
 
+    //property of fgets is to take only 1 line as input which works in our favour
     //the if condition specificallt checks one line
     if(fgets(line,sizeof(line),fptr) != NULL){
         printf("%s\n",line);
