@@ -3,3 +3,131 @@ Till 9 done by self
 
 13th one not done..left for later
 14rth oner not done..left for later
+
+//CHATGPT  : 
+To prepare for a technical interview at a top tech company like Google, you'll need to be well-versed in a wide range of data structures and algorithms. Here is a comprehensive list of the essential topics you should cover:
+
+### Data Structures
+1. **Arrays and Strings**
+   - One-dimensional arrays
+   - Multi-dimensional arrays
+   - String manipulation
+
+2. **Linked Lists**
+   - Singly linked list
+   - Doubly linked list
+   - Circular linked list
+
+3. **Stacks**
+   - Implementation using arrays and linked lists
+   - Common operations (push, pop, peek)
+
+4. **Queues**
+   - Simple queue
+   - Circular queue
+   - Priority queue
+   - Deque (double-ended queue)
+
+5. **Hashing**
+   - Hash tables
+   - Hash maps
+   - Collision resolution techniques (chaining, open addressing)
+
+6. **Trees**
+   - Binary trees
+   - Binary search trees (BST)
+   - AVL trees
+   - Red-Black trees
+   - B-trees
+   - Tries (prefix trees)
+   - Segment trees
+   - Fenwick trees (Binary Indexed Trees)
+
+7. **Graphs**
+   - Graph representations (adjacency matrix, adjacency list)
+   - Depth-first search (DFS)
+   - Breadth-first search (BFS)
+   - Topological sorting
+   - Strongly connected components (Kosaraju's, Tarjan's)
+   - Shortest path algorithms (Dijkstra’s, Bellman-Ford, Floyd-Warshall)
+   - Minimum spanning tree algorithms (Kruskal's, Prim's)
+
+8. **Heaps**
+   - Binary heap
+   - Min-heap and max-heap
+   - Heap operations (insert, delete, extract-min/max)
+   - Heap sort
+
+### Algorithms
+1. **Sorting Algorithms**
+   - Bubble sort
+   - Selection sort
+   - Insertion sort
+   - Merge sort
+   - Quick sort
+   - Heap sort
+   - Counting sort
+   - Radix sort
+   - Bucket sort
+
+2. **Searching Algorithms**
+   - Linear search
+   - Binary search (iterative and recursive)
+
+3. **Dynamic Programming**
+   - Concepts (memoization, tabulation)
+   - Classical problems (knapsack, longest common subsequence, longest increasing subsequence, matrix chain multiplication, coin change, etc.)
+
+4. **Greedy Algorithms**
+   - Concepts and approach
+   - Classical problems (fractional knapsack, Huffman coding, activity selection, etc.)
+
+5. **Backtracking**
+   - Concepts and approach
+   - Classical problems (N-queens, subset sum, permutation generation, etc.)
+
+6. **Bit Manipulation**
+   - Common operations (AND, OR, XOR, NOT, left shift, right shift)
+   - Counting bits
+   - Common problems (single number, subsets, etc.)
+
+### Problem-Solving Techniques
+1. **Two Pointers Technique**
+2. **Sliding Window Technique**
+3. **Divide and Conquer**
+4. **Recursion**
+
+### Additional Topics
+1. **Mathematics**
+   - Number theory (prime numbers, GCD/LCM, modular arithmetic)
+   - Combinatorics
+
+2. **Geometry**
+   - Line intersection
+   - Convex hull
+
+### System Design and Object-Oriented Design
+1. **System Design Concepts**
+   - Scalability
+   - Load balancing
+   - Caching
+   - Database scaling (SQL vs NoSQL)
+   - CAP theorem
+   - Microservices
+
+2. **Object-Oriented Design**
+   - Design principles (SOLID)
+   - Design patterns (singleton, factory, observer, etc.)
+
+### Practice
+1. **Coding Platforms**
+   - LeetCode
+   - HackerRank
+   - Codeforces
+   - CodeChef
+   - TopCoder
+
+2. **Mock Interviews**
+   - Conduct mock interviews with peers or use platforms like Pramp or Interviewing.io.
+
+By mastering these data structures, algorithms, and concepts, you'll be well-prepared for technical interviews at Google and other top tech companies. Practice is crucial, so regularly solve problems on coding platforms and participate in coding competitions to improve your problem-solving skills and speed.
